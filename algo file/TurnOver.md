@@ -128,7 +128,7 @@
 >
 > #### <font color="sky blue">&ensp;Image example : Price stabilize</font>
 >
-> ![image example](/212338.png "Price stabilize")
+> ![(/212338.png "Price stabilize")](https://github.com/osdajiba/jacky/blob/main/algo%20file/214024.png)
 
 ## __Case 2: Identified > Have no transition period__
   
@@ -153,7 +153,7 @@
 >
 > #### <font color="sky blue">&ensp;Image example : Price stabilize</font>
 >
-> ![image example](/213758.png "Price moves away")
+> ![image example](https://github.com/osdajiba/jacky/blob/main/algo%20file/213758.png "Price moves away")
   
 ### __b. Price stable__
 
@@ -175,4 +175,4 @@
 >
 > #### <font color="sky blue">&ensp;Image example : Price stabilize</font>
 >
-> ![image example]([/214024.png](https://github.com/osdajiba/jacky/blob/main/algo%20file/214024.png)https://github.com/osdajiba/jacky/blob/main/algo%20file/214024.png "Price stable")
+> ![image example](https://github.com/osdajiba/jacky/blob/main/algo%20file/214024.png "Price stable")
