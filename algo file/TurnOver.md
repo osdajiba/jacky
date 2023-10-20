@@ -75,7 +75,7 @@
 >
 > #### <font color="sky blue">&ensp;Image example : Price continues moving</font>
 >
-> ![image example](/194254.png "Price continues moving")
+> ![](/194254.png "Price continues moving")
   
 ### __b. Price moves back__
 
@@ -105,7 +105,7 @@
 >
 > #### <font color="sky blue">&ensp;Image example : Price moves back</font>
 >
-> ![image example](/205003.png "Price moves back")
+> ![](/205003.png "Price moves back")
 
 ### __c. Price stabilize__
 
@@ -128,7 +128,7 @@
 >
 > #### <font color="sky blue">&ensp;Image example : Price stabilize</font>
 >
-> ![image example](/212338.png "Price stabilize")
+> ![](/212338.png "Price stabilize")
 
 ## __Case 2: Identified > Have no transition period__
   
@@ -175,4 +175,4 @@
 >
 > #### <font color="sky blue">&ensp;Image example : Price stabilize</font>
 >
-> ![image example](214024.png "Price stable")
+> ![](/214024.png "Price stable")
