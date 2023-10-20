@@ -175,4 +175,4 @@
 >
 > #### <font color="sky blue">&ensp;Image example : Price stabilize</font>
 >
-> ![image example](/214024.png "Price stable")
+> ![image example](214024.png "Price stable")
