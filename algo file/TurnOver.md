@@ -75,7 +75,7 @@
 >
 > #### <font color="sky blue">&ensp;Image example : Price continues moving</font>
 >
-> ![image example](/194254.png "Price continues moving")  
+> [![image example](/194254.png "Price continues moving")](https://github.com/osdajiba/jacky/blob/main/algo%20file/194254.png)
   
 ### __b. Price moves back__
 
@@ -105,7 +105,7 @@
 >
 > #### <font color="sky blue">&ensp;Image example : Price moves back</font>
 >
-> ![image example](/205003.png "Price moves back")
+> [![image example](/205003.png "Price moves back")](https://github.com/osdajiba/jacky/blob/main/algo%20file/205003.png)
 
 ### __c. Price stabilize__
 
@@ -128,7 +128,7 @@
 >
 > #### <font color="sky blue">&ensp;Image example : Price stabilize</font>
 >
-> ![image example](/212338.png "Price stabilize")
+> [![image example](/212338.png "Price stabilize")](https://github.com/osdajiba/jacky/blob/main/algo%20file/212338.png)
 
 ## __Case 2: Identified > Have no transition period__
   
@@ -153,7 +153,7 @@
 >
 > #### <font color="sky blue">&ensp;Image example : Price stabilize</font>
 >
-> ![image example](/213758.png "Price moves away")
+> [![image example](/213758.png "Price moves away")](https://github.com/osdajiba/jacky/blob/main/algo%20file/213758.png)
   
 ### __b. Price stable__
 
@@ -175,4 +175,4 @@
 >
 > #### <font color="sky blue">&ensp;Image example : Price stabilize</font>
 >
-> ![image example](/214024.png "Price stable")
+> [![image example](/214024.png "Price stable")](https://github.com/osdajiba/jacky/blob/main/algo%20file/214024.png)
