@@ -153,7 +153,7 @@
 >
 > #### <font color="sky blue">&ensp;Image example : Price stabilize</font>
 >
-> ![image example](../213758.png "Price moves away")
+> ![image example](/213758.png "Price moves away")
   
 ### __b. Price stable__
 
@@ -175,4 +175,4 @@
 >
 > #### <font color="sky blue">&ensp;Image example : Price stabilize</font>
 >
-> ![image example](./214024.png "Price stable")
+> ![image example](/214024.png "Price stable")
